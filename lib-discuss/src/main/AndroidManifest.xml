@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.erhii.lib_discuss">
+
+    <application>
+        <activity android:name=".core.view.DiscussActivity"></activity>
+    </application>
+
+</manifest>
